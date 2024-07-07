@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ro6rgxf0yvhof703/branch/main?svg=true)](https://ci.appveyor.com/project/KseniiaVv/hometask2/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/ro6rgxf0yvhof703?svg=true)](https://ci.appveyor.com/project/KseniiaVv/hometask2)
